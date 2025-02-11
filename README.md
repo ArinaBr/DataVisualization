@@ -1,2 +1,3 @@
 # DataVisualization
-Python Visualization Libraries
+Completed as part of the course "Introduction to Data Analysis" <br />
+(VK Education) 
